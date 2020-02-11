@@ -29,7 +29,8 @@ Riprap_software_1.3.py -h
 
 in your command window. And you should get the following lines:
 
-[username]$ ./PRAS_1.0.py -h
+[username]$ ./Riprap_software_1.3.py -h
+
 ![alt text](helppage.png)
 
 If you get any errors in this command line, please go back to the prerequisites and check.
