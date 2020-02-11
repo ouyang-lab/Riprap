@@ -22,9 +22,9 @@ The two command lines above should provide the same results.
 
 One will get information as below and a file called "$output_file_prefix"_riprap_score.tab if Riprap runs successfully.
 
-Starting...
-Finished!
---- The running time is 1.98150014877 seconds ---
+##### Starting...
+##### Finished!
+##### --- The running time is 1.98150014877 seconds ---
 
 ### 2. Sample output table: sample_output_riprap_score.tab
 
