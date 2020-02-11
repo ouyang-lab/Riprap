@@ -22,7 +22,7 @@ We introduce a novel computational framework–RIboSNitch Predictor based on Rob
 [Lin, J., Zhang, Y., Chen, Y., & Ouyang, Z. (20xx). Predicting, annotating, and visualizing RNA structural disruptions induced by single nucleotide variants using Riprap]()
 
 ## License
-Use of PRAS is free for academic users under the GNU General Public License (GPL). Commercial users please contact the authors.
+Use of Riprap is free for academic users under the GNU General Public License (GPL). Commercial users please contact the authors.
 
 ## Contact
 Zhengqing Ouyang: ouyang@schoolph.umass.edu
