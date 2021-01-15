@@ -9,9 +9,9 @@ Riprap requires a table that contain ID, sequence, and SNV information in separa
 
 ## Command example
 ### 1. run Riprap "default" mode
-./Riprap_software_1.3.py -i sample_input.txt -o sample_output 
+./Riprap_software_1.0.py -i sample_input.txt -o sample_output 
 ### 2. run Riprap with customized options.
-./Riprap_software_1.3.py -i sample_input.txt -o sample_output -t 1 -w 10  
+./Riprap_software_1.0.py -i sample_input.txt -o sample_output -t 1 -w 10  
 
 where *-t 1* means fold type one (RNAfold), *-w 10 * means minimum window size is 10 nt.
 
